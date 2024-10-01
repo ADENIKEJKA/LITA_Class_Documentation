@@ -7,3 +7,12 @@ This Data Analysis project aims to generate insight into the sales performance o
 
 ### Data Source
 The primary source of data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an 
+
+### Tools Used
+- MIcrosoft Excel; [Download here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. Analysis
+  3. Visualization
+     
+- SQL - Structured Query Language for Querying of Data
+- GitHub for Portfolio building
