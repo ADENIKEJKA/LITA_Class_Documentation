@@ -1,6 +1,6 @@
 # LITA_Class_Documentation
 
-### Project Title: E Commerce Sales Analysis
+## Project Title: Analysis for Yearly Sales
 
 [Project Overview](#project-overview)
 
@@ -16,10 +16,10 @@ Exploratory Data Analysis
 
 ### Project Overview
 ---
-This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data.
+The purpose of this data analysis project is to produce an understanding of this project's sales performance throughout the previous year. We want to obtain sufficient insights to make rational decisions by scrutinizing the different characteristics in the data we receive. This allows us to employ the insights to craft captivating narratives about our data and determine its optimal performance.
 
 ### Data Sources
-The primary source of data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an 
+The primary source of data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
 
 ### Tools Used
 ---
@@ -27,6 +27,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
   1. For Data Cleaning
   2. Analysis
   3. Visualization
+  
      
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio building
@@ -50,8 +51,21 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ---
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during the analysis;
 ```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
+CREATE TABLE Employee (
+staffid varchar (10) not null,
+FirstName varchar (255) NOT NULL,
+SecondName varchar (255),
+Gender varchar (10),
+Date_of_Birth date,
+HireDate datetime,
+primary key (staffid)
+)
+```
+```SELECT COUNT(Staffid) AS NumberOfEmployee FROM Salary```
+```SQL
+update Salary
+set salary = 7056999.9994
+where Staffid = 'AB401'
 ```
 
 ### Data Visualization
