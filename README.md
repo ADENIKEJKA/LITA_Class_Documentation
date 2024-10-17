@@ -4,13 +4,13 @@
 
 [Project Overview](#project-overview)
 
-Data Sources
+[Data Sources](#data-sources)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and Preparations
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
 
@@ -67,9 +67,12 @@ where Staffid = 'AB401'
 
 ### Data Visualization
 
+![Pivot table for Model by Revenue](https://github.com/user-attachments/assets/14ac9ca8-e360-4cde-b089-089022f65502)
 
+![Pivot table for Top 10 Stores by Revenue](https://github.com/user-attachments/assets/ab2c9c1d-e926-4077-97fe-50d7071d530c)
 
+![Pivot Graph for Revenue by Region](https://github.com/user-attachments/assets/d611dd43-4778-4f63-8b51-7a0d971f15c9)
 
-
+![Pivot Graph for Revenue by Units sold](https://github.com/user-attachments/assets/31f2ab55-256a-4653-8283-c0c52627547b)
 
 
