@@ -30,7 +30,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
      
 - SQL - Structured Query Language for Querying of Data
 - GitHub for Portfolio building
-- Power BI for Analysis and Presentation
+- Power BI for Data cleaning, Analysis and Presentation
 
 ### Data Cleaning and Preparations
 ---
