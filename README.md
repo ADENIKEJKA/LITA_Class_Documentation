@@ -14,6 +14,8 @@
 
 [Data Analysis](#data-analysis)
 
+[Data Visualization](#data-visualization)
+
 [Inferences](#inferences)
 
 [Summary](#summary)
@@ -75,6 +77,10 @@ where Staffid = 'AB401'
 ![Pivot Graph for Revenue by Region](https://github.com/user-attachments/assets/d611dd43-4778-4f63-8b51-7a0d971f15c9)
 
 ![Pivot Graph for Revenue by Units sold](https://github.com/user-attachments/assets/31f2ab55-256a-4653-8283-c0c52627547b)
+
+![Data Analysis with Power BI](https://github.com/user-attachments/assets/ff048a39-1fa5-4f10-a98f-1b427cb0b1ea)
+
+![Current employees by age group and gender](https://github.com/user-attachments/assets/97a19a35-dcb7-43b3-b58a-16d8e15987dc)
 
 ### Inferences
 ---
